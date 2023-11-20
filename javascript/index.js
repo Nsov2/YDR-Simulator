@@ -6,23 +6,23 @@ class MiniChallenge {
         let description = document.querySelector("b#Description");
         let desc2;
         (function (desc2) {
-            desc2[desc2["the pitcrew."] = 0] = "Revolving Shot. The queens will each have 30 seconds to throw as many balls into the revolving target container as possible. The queen that sucsessfully lands the most balls in the container will win.";
-            desc2[desc2["a partner."] = 1] = "Time Freeze. The queens must each estimate the duration of 10 seconds and hit their button when they think that time has passed. The queen that hits their button at the time that is closet to 10 seconds will win.";
-            desc2[desc2["noodles."] = 2] = "Expulsion. The queens will race to remove 1000 balls from their container. The first queen to finish will win.";
-            desc2[desc2["hip pads."] = 3] = "Release. The queens must each manoverue a pole around a maze without it touching the sides. The queens will compete for the fastest time and will receive a 2 second time penatly each time the pole touches the side of the maze. The queen that finishes in the fastest time will win.";
-            desc2[desc2["balls."] = 4] = "Extraction. In this challenge the queens will face off in a series of 1 vs 1 battles. In each battle, the first queen to remove all 25 tabs from their side of the table and hit their button will win. The queen that wins the tournament overall will win this challenge.";
-            desc2[desc2["past Drag Race contestants"] = 5] = "Multisphere. Each queen will release 20 balls onto the floor of the playing area. The queens must then pick up all the balls and place them inside the container. The queen that does this in the fastest time will win.";
-            desc2[desc2["a celebrity."] = 6] = "Motion Build. Whilst standing on a rotating platform, each queen must transfer the cylinders from the box to the podium in an attempt to construct the highest tower. The game ends for a queen when their tower falls. The queen that builds the highest tower before it falls will win.";
-            desc2[desc2["a celebrity."] = 7] = "Pass. The queens must transfer a block between the red and white podiums until it reaches the final gold podium by passing it through the cylinders on the table without knocking them over. The queens will compete for the fastest time and will receive a 2 second time penatly each time a cylinder is knocked over. The queen that finishes in the fastest time will win.";
-            desc2[desc2["a celebrity."] = 8] = "Plummet. The queens must remove all of the tabs from their tower so that their ball hits the red zone at the bottom of the tower first. The queen that finishes first will win."
-            desc2[desc2["a celebrity."] = 9] = "Downfall. The queens will each have 30 seconds to drop balls from the suspended container using the button in an effort to land them in the container that is spinning on the rotating platform. The queen that lands the most balls in the container will win."
-            desc2[desc2["a celebrity."] = 10] = "Selection. The queens will be given a colour. This colour will be either red or blue. Based on the colour they are given, the queens must remove all of the matching coloured balls from their posts using one finger in an attempt to finish in the fastest time. The queens will receive a 1 second time penatly each time a wrong coloured ball is removed. The queen that finishes in the fastest time will win."
-            desc2[desc2["a celebrity."] = 11] = "Orbit. Whilst blindfolded, the queens must exit the red zone and walk around the octagonal path before re-entering the red area. They must do this in an attempt to finish in the fastest time. The queens will receive a 3 second time penatly each time they step outside of the lines. The queen that finishes in the fastest time will win."
-            desc2[desc2["a celebrity."] = 12] = "Rotation. The queens will have 30 seconds to roll balls down the beam and into the revolving target hole. The queen that lands the most balls in the hole will win."
-            desc2[desc2["a celebrity."] = 13] = "Summit. The queens will each have 30 seconds to throw balls into the target box which is located at the top of the collum. The queen that lands the most balls in the box will win."
-            desc2[desc2["a celebrity."] = 14] = "Construction. The queens must build a tower using as many of the cylinders as possible. The game starts for a queen when they place the first cylinder on the podium and stops when their tower falls. The queen that builds the highest tower before it falls will win."
-            desc2[desc2["a celebrity."] = 15] = "Drop. In this challenge the queens will face off in a series of 1 vs 1 battles. In each battle the queens will stand on either side of the playing area and will hold one end of the two rods. The queens must tilt the rods so that the ball drops into their container once they are separated. In each battle, the queen who's container was closest to being entered by the ball will win. The queen that wins the tournament overall will win this challenge."
-            desc2[desc2["a celebrity."] = 16] = "Multishot. The queens will have 10 seconds to fill as many containers will a ball as possible by throwing balls into them. The queen that fills the most containers will win."
+            desc2[desc2["the pitcrew."] = 0] = "Met Gala Photoshoot. The queens must edit themselves into a met gala runway. The winner will get an advantage for the maxi challenge.";
+            desc2[desc2["a partner."] = 1] = "Puzzle. The queens will be given a puzzle and the queen to solve it first will be given an advantage for the maxi challenge.";
+            desc2[desc2["noodles."] = 2] = "Hidden Emoji. LuPaul will send an image with a hidden emoji. The queen to find it first will receive a $5 cash tip.";
+            desc2[desc2["hip pads."] = 3] = "Holiday Photoshoot. The queens will edit themselves in a Christmas setting.";
+            desc2[desc2["balls."] = 4] = "Complaining No More. In this mini challenge, LuPaul will recount the times a queen has complained throughout the competition so far, the queen who has complained the least will receive and advantage for the maxi challenge, and the queen who has complained the most will receive a disadvantage.";
+            desc2[desc2["past Drag Race contestants"] = 5] = "Name Game. LuPaul will send a past queen's silhouette. Whoever guesses the most silhouettes will win a $5 cash tip.";
+            desc2[desc2["a celebrity."] = 6] = "Word Puzzle. The queens will be given a random 6-letter word that they'll have to guess. Whoever guesses their word first will win an advantage for the maxi challenge.";
+            desc2[desc2["a celebrity."] = 7] = "Celebrity Search. The queens will be given a random celebrity and their goal is to look through that celebritie's instagram page and find a comment made by LuPaul in a secret account. Whoever finds their comment first will be rewarded the honor to guest judge the following season.";
+            desc2[desc2["a celebrity."] = 8] = "Roblox Fashion Famous. The queens will play one round of Roblox's fashion famous. The queen who racks up the most stars will win the mini challenge, but they'll also win an advantage."
+            desc2[desc2["a celebrity."] = 9] = "Ending Nicki. The queens will each have 60 seconds to come up with Nicki Minaj disses. The winner will receive a $5 cash tip."
+            desc2[desc2["a celebrity."] = 10] = "Background Search. The queens will undergo a background search. The queen who has the least offensive posts will win a $5 cash tip."
+            desc2[desc2["a celebrity."] = 11] = "Are you Smarter than a 5th Grader? The queens will secretly undergo an IQ test, the queen with the lowest IQ will win this mini-challenge, but they'll also receive an advantage for the maxi challenge because they'll clearly need it..."
+            desc2[desc2["a celebrity."] = 12] = "Blunt Rotation. The queens will have 30 seconds to roll blunts. Whoever rolls the best blunts will win a $100 cash tip, courtesy of Snoop Dogg."
+            desc2[desc2["a celebrity."] = 13] = "Get a Job Speedrun. The queens will each have 60 seconds apply to jobs. The winner of this mini-challenge will be determined by who gets an interview first. The winner will receive an advantage for the maxi-challenge."
+            desc2[desc2["a celebrity."] = 14] = "LuPaul's Tier List. The queenswill be ranked on a Tier List by LuPaul, whoever ranks the highest will receive a $5 cash tip, courtesy of LuPaul himself."
+            desc2[desc2["a celebrity."] = 15] = "Mic Drop. In this mini-challenge the queens will freestyle. The queen with the best freestyle will receive the honor to guest judge next season's girl groups challenge."
+            desc2[desc2["a celebrity."] = 16] = "Sponsored by Grammarly. The queens will have 10 minutes to write a beautiful poem about themselves. The queen whose poem has the worst grammar and rhyme schemes will receive a free grammarly subscription of 1 year because obviously they'll need it."
         })(desc2 || (desc2 = {}));
         //reading and puppet challenges:
         if (totalCastSize >= 10 && currentCast.length == 7 && !all_stars && !lipsync_assassin && !all_winners && episodeCount > 3 && !readingCheck || currentCast.length == totalCastSize && (all_stars || lipsync_assassin) && !readingCheck || episodeCount == 1 && all_winners && !readingCheck) {
@@ -46,10 +46,10 @@ class MiniChallenge {
             let winner = currentCast[randomNumber(0, currentCast.length - 1)];
             screen.createImage(winner.image, "royalblue");
             screen.createBold(`${winner.getName()} won the mini-challenge!`)
-            screen.createBigText("They win $2,000 and an advantage in the maxi challenge")
+            screen.createBigText("They win this episode's mini-challenge!")
             let queen = currentCast[randomNumber(0, currentCast.length - 1)]
             screen.createImage(queen.image)
-            screen.createBold(queen.getName()+ " thinks that they should of won the mini challenge")
+            screen.createBold(queen.getName()+ " doesn't think that they should of won the mini challenge")
             
             
             
@@ -63,10 +63,10 @@ class MiniChallenge {
             screen.createImage(currentCast[winner].image, "royalblue");
             screen.createImage(currentCast[second].image, "royalblue");
             screen.createBold(`${currentCast[winner].getName()} and ${currentCast[second].getName()} won the mini-challenge!`);
-            screen.createBigText("They both win $2,000 and an advantage in the maxi challenge")
+            screen.createBigText("They both won this week's Mini-Challenge!")
             let queen = currentCast[randomNumber(0, currentCast.length - 1)]
             screen.createImage(queen.image)
-            screen.createBold(queen.getName()+ " thinks that they should of won the mini challenge")
+            screen.createBold(queen.getName()+ " doesn't think that they should of won the mini challenge")
             
         }
         
